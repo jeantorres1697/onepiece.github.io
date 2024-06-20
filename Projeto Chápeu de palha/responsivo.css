@@ -1,0 +1,23 @@
+@media(max-width: 680px){
+  body {
+  background-image: url('./src/imagens/fundo-base1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  }
+
+ .cabecalho {
+   padding: 30px 0;
+ } 
+ 
+ .personagens-slider {
+   padding: 0 15px;
+   gap: 10px;
+ }
+ 
+ .btn-seta {
+   width: 20px;
+   height: 20px;
+   padding: 20px;
+ }
+}
